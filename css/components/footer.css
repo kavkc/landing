@@ -1,5 +1,5 @@
 .footer{
-  background-color: #2D4263;
+  background-color: #192538;
   text-align: center;
   padding: 100px;
 }
@@ -7,6 +7,11 @@
 .footer-icons a{
   font-size: 30px;
   color: #1EDD88;
+  padding: 10px;
+}
+
+.footer-icons a:hover{
+  color: #15a262;
 }
 
 .footer-icons p{
